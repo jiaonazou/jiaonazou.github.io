@@ -9,16 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV as [PDF](/files/cv_Wang.pdf)
-
-## Contact
-
-| Item | Details |
-| --- | --- |
-| Name | Jiaona Zou |
-| Email | jiaona.zou@infineon.com |
-| Phone | +43 676 82057358 |
-| Location | Austria |
+Download CV as [PDF](/files/CV_Jiaona_Zou.pdf)
 
 ## Skills summary
 
