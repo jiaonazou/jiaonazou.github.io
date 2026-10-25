@@ -11,13 +11,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Code"
-    url: /code/
-
-  - title: "Databases"
-    url: /databases/
-
-  - title: "Blogs"
+  - title: "Blocks"
     url: /blogs/
 
   - title: "Repos"

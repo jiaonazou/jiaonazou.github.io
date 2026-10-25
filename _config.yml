@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yun Wang"
+title                    : "Jiaona Zou"
 title_separator          : "-"
-name                     : &name "Dr. Yun Wang"
-description              : &description "Dr. Yun Wang - bioinformatician"
-url                      : https://fulaibaowang.github.io
+name                     : &name "Jiaona Zou"
+description              : &description "Process Development Engineer focused on SiC plasma etching and semiconductor manufacturing"
+url                      : https://jiaonazou.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fulaibaowang/fulaibaowang.github.io"
+repository               : "jiaonazou/jiaonazou.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "fulaibaowang/fulaibaowang.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Dr. Yun Wang"
+  name             : "Jiaona Zou"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist · Bioinformatician"
-  location         : "Ljubljana, Slovenia"
+  bio              : "Unit Process Development Engineer"
+  location         : "Austria"
   employer         :
   uri              : # URL
-  email            : "yun.wang424@hotmail.com"
+  email            : "jiaona.zou@infineon.com"
 
   # Academic websites
   academia         : # URL
@@ -37,7 +37,7 @@ author:
   googlescholar    :
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-2441-4182"
+  orcid            :
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "fulaibaowang"
+  github           : "jiaonazou"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "yun-wang-8a7a9b164"
+  linkedin         :
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -78,7 +78,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "fulaibaowang"
+  youtube          :
   zhihu            : # Username
 
 
